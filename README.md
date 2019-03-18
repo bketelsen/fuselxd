@@ -24,3 +24,11 @@ ls
 ![command](assets/command.png?raw=true "Command")
 ![mounted filesystem](assets/mountedfs.png?raw=true "Mounted FS")
 ![source filesystem](assets/container.png?raw=true "Source File System")
+
+## DISCLAIMER
+
+DON'T USE THIS FILESYSTEM FOR ANYTHING UNLESS YOU WANT PAIN, SUFFERING, LOSS, WAILING, AND GNASHING OF TEETH.
+
+IT IS UNTESTED, AND ABSOLUTELY WILL BREAK THINGS, GUARANTEED.  USE THIS APPLICATION AT YOUR OWN RISK.
+
+YOU WERE WARNED.
